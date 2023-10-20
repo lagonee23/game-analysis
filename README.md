@@ -2,4 +2,4 @@
 
 > [Google Colaboratory](https://colab.google/)를 사용하여 **Jupyter** 노트북 환경에서 최신 게임의 트렌드를 연도별, 지역별, 장르별로 분석한 프로젝트입니다.
 
-Python과 Pandas 라이브러리를 사용하여 <a href="https://youtu.be/NEvuulahg2g" target="_blank">EDA(Exploratory Data Analysis)</a>를 진행하였습니다.
+Python과 Pandas 라이브러리를 사용하여 <a href="https://youtu.be/NEvuulahg2g" target="_blank">EDA(Exploratory Data Analysis)</a> 를 진행하였습니다.
